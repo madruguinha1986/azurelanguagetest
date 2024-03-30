@@ -9,7 +9,14 @@ Após essa etapa, acessei o portal: https://language.cognitive.azure.com/
 Utilizei um texto de minha autoria do meu linkedin: www.linkedin.com/in/josé-carlos-rodriguess-oliveira-66840031 e 
 obtive os resultados: 
 
+## Imagens com entradada de dados
+
+![entrada_de_dados](imagens/languagetest.png)
+
+Imagem contendo os dados de entradas.
+
 ## Primeira Imagem
+
 
 ![primeira_imagem](imagens/teste_1.png)
 
