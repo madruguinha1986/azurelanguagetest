@@ -23,7 +23,7 @@ O resultado que a IA apresentou foi para esse caso positivo, ninguém em sâ con
 Resultado complementar.
 
 
-Impressões: É incrível a gama de possibilidades que a Microsoft apresenta cono essa IA, realmente ela será uma mão nos bytes. 
+Impressões: É incrível a gama de possibilidades que a Microsoft apresenta cono essa IA, realmente ela é uma mão nos bytes. 
 
 
 
