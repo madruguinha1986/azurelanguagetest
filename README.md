@@ -1,4 +1,4 @@
-# Primeiro parte do laboratório: Utilizando o Language Studio.
+# Primeira parte do laboratório: Utilizando o Language Studio.
 
 ## Criando o recuso no portal Azure.
 
@@ -6,5 +6,11 @@ Fora utilizado o seguinte link, esse link é o passso a passso do laboratório: 
 
 Após essa etapa, acessei o portal: https://language.cognitive.azure.com/
 
-seguindo, utilizei um texto de minha autoria do meu linkedin: www.linkedin.com/in/josé-carlos-rodriguess-oliveira-66840031 e 
+Utilizei um texto de minha autoria do meu linkedin: www.linkedin.com/in/josé-carlos-rodriguess-oliveira-66840031 e 
 obtive os resultados: 
+
+## Primeira_Imagem
+
+
+
+
