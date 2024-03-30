@@ -31,6 +31,19 @@ Resultado complementar.
 
 Impressões: É incrível a gama de possibilidades que a Microsoft apresenta cono essa IA, realmente ela é uma mão nos bytes. 
 
+# Rsultados do laboratório: Conversão de texto em áudio.
+
+Fora utilizado o seguinte [link](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html), esse link é o passo a passo do laboratório.
+
+Em seguida obtive o seguite resultado:
+
+![conversão de áudio em texto](imagens/speechtotext.png)
+
+Observações: A transcrição foi perfeita, claro que há uma gama de ferramnentas para ser exploradas que trará uma produtividade incrível.
+
+
+
+
 
 
 
