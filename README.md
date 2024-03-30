@@ -2,12 +2,11 @@
 
 ## Criando o recuso no portal Azure.
 
-Fora utilizado o seguinte link, esse link é o passso a passso do laboratório: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
+Fora utilizado o seguinte [link](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html), esse link é o passo a passo do laboratório.
 
-Após essa etapa, acessei o portal: https://language.cognitive.azure.com/
+Após essa etapa, acessei o portal: [https://language.cognitive.azure.com/](https://language.cognitive.azure.com/)
 
-Utilizei um texto de minha autoria do meu linkedin: www.linkedin.com/in/josé-carlos-rodriguess-oliveira-66840031 e 
-obtive os resultados: 
+Utilizei um texto de minha autoria do meu [LinkedIn](www.linkedin.com/in/josé-carlos-rodriguess-oliveira-66840031) e obtive os resultados: 
 
 ## Imagens com entradada de dados
 
